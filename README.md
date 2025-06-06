@@ -25,7 +25,7 @@ Before running this project, make sure you have:
 ### 1. Clone the Repository
 
 ```bash
-git clone <https://github.com/The-Black-Shadow/flutter_stripe_payment>
+git clone https://github.com/The-Black-Shadow/flutter_stripe_payment
 cd flutter_stripe_payment
 ```
 
